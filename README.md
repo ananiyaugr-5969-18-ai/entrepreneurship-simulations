@@ -1,2 +1,2 @@
-# entrepreneurship-simulations
-Academic simulations and artifacts for Entrepreneurship Pre-Eng Chapter 1.
+# Entrepreneurship Simulations
+Academic artifacts for Chapter 1.
